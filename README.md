@@ -1,3 +1,5 @@
+[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pinaksawhney/)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud and Large-scale Systems
