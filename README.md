@@ -1,6 +1,4 @@
-[![linkedin badge](https://img.shields.io/endpoint?label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin%2Fin%2Fpinaksawhney)](https://www.linkedin.com/in/pinaksawhney/)
-
-[![Devpost | Moody](https://badges.devpost-shields.com/get-badge?name=Moody&id=moody-5romwl&type=big-logo&style=popout)](https://devpost.com/software/moody-5romwl)
+[![linkedin badge](https://img.shields.io/endpoint?label=LinkedIn&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin%2Fin%2Fpinaksawhney)](https://www.linkedin.com/in/pinaksawhney/)  [![Devpost | Moody](https://badges.devpost-shields.com/get-badge?name=Moody&id=moody-5romwl&type=big-logo&style=popout)](https://devpost.com/software/moody-5romwl)
 
 ### Hi there 👋
 
