@@ -1,6 +1,5 @@
-<p align="center"> [![linkedin badge](https://img.shields.io/endpoint?label=Linkedin&logo=Linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fpinaksawhney)](https://www.linkedin.com/in/pinaksawhney/)
-[![Devpost | Moody](https://badges.devpost-shields.com/get-badge?name=Moody&id=moody-5romwl&type=big-logo&style=popout)](https://devpost.com/software/moody-5romwl)
-</p>
+[![linkedin badge](https://img.shields.io/endpoint?label=Linkedin&logo=Linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fpinaksawhney)](https://www.linkedin.com/in/pinaksawhney/)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud and Large-scale Systems
