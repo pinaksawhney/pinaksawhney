@@ -1,4 +1,4 @@
-[![linkedin badge](https://img.shields.io/badge/Akanksha_Singh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/pinaksawhney/)
+[![linkedin badge](https://img.shields.io/endpoint?label=LinkedIn&logo=linkedin&style=plastic&url=https%3A%2F%2Flinkedin%2Fin%2Fpinaksawhney)](https://www.linkedin.com/in/pinaksawhney/)
 
 ### Hi there 👋
 
