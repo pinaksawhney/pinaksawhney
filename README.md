@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Reddit](https://www.reddit.com/user/pinak05)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I am not coding, I will be travelling and if I am not travelling I will be coding..
-
--->
