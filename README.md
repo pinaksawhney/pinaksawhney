@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on cloud and large scale systems
 - 🌱 I’m currently learning more about storage and database systems
 - 👯 I’m looking to collaborate on hackathons
