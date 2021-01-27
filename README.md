@@ -1,4 +1,5 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinaksawhney/)
+[![Pinak Sawhney](https://img.shields.io/endpoint?label=Pinak%20Sawhney&logo=devpost&url=https%3A%2F%2Fdevpost.com%2Fpsawhney)](https://devpost.com/psawhney)
 
 ### Hi there 👋
 
