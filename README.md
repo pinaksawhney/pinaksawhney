@@ -11,20 +11,9 @@
 - 📫 How to reach me:  [![discord badge](https://img.shields.io/discord/802033003298684958?logo=discord)](https://discord.gg/7x5vhv89)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I am not coding, I will be travelling and if I am not travelling I will be coding...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
