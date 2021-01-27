@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cloud and Large-scale Systems
+- 🔭 I’m currently working on Cloud and Distributed Systems
 - 🌱 I’m currently learning more about Storage and Database systems
 - 👯 I’m looking to collaborate on Hackathons and Projects
 - 🤔 I’m looking for help with contributing to Open Source and CP
