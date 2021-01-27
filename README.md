@@ -1,5 +1,5 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinaksawhney/)       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Pinak Sawhney](https://img.shields.io/endpoint?label=Pinak%20Sawhney&logo=devpost&style=for-the-badge&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)](https://devpost.com/psawhney)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Website badge](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fpinaksawhney.github.io%2F)](http://pinaksawhney.github.io/)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;[![Website badge](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fpinaksawhney.github.io%2F)](http://pinaksawhney.github.io/)
 
 ### Hi there 👋
 
