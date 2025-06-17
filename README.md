@@ -9,9 +9,10 @@
 
 - Distributed Systems
 - Cloud Computing
-- Storage
-- Database systems
+- Storage Systems
+- Database Systems
 - Distributed computing
+- Data Intensive Applications
 
 
 <br/>
